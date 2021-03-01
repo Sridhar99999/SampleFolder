@@ -1,5 +1,5 @@
 Updated data
 
-Updated by user2
-
 Updated in develop
+
+updated for conflict
